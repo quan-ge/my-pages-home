@@ -1,0 +1,49 @@
+/* style.css */
+#all {
+    width: 400px;
+    height: 700px;
+    background-color: rgba(161, 232, 255, 0.423);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#hand {
+    width: 400px;
+    background-color: rgba(110, 126, 251, 0.1);
+}
+
+#a {
+    color: rgb(0, 170, 255);
+    font-size: 26px;
+    text-decoration: overline;
+    padding: 11px 0px 0px 23px;
+    text-decoration-color: rgba(139, 255, 255, 0.75);
+}
+
+#img,
+#a {
+    float: left;
+}
+
+#img {
+    margin: 7px 0px 0px 10px;
+}
+
+table,
+td {
+    border: 5px solid rgba(26, 33, 241, 0.7);
+    border-collapse: collapse;
+    margin: 67px 0px 0px -12px;
+}
+
+table {
+    width: 296px;
+    height: 100px;
+}
+
+td {
+    text-align: center;
+    background-color: rgba(114, 215, 215, 0.34);
+    color: rgba(121, 64, 126, 0.75);
+}

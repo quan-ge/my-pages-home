@@ -1,0 +1,52 @@
+/* 整体容器 */
+.all {
+    width: 400px;
+    height: 700px;
+    background-color: rgba(161, 232, 255, 0.423);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  /* 头部样式 */
+  .header {
+    width: 100%;
+    background-color: rgba(110, 126, 251, 0.1);
+  }
+  
+  .header-content {
+    display: flex;
+    align-items: center;
+    padding: 11px 23px;
+  }
+  
+  .header-icon {
+    max-width: 46px;
+    margin-right: 10px;
+  }
+  
+  .header-title {
+    color: rgb(0, 170, 255);
+    font-size: 26px;
+    text-decoration: overline;
+    text-decoration-color: rgba(139, 255, 255, 0.75);
+  }
+  
+  /* 链接部分样式 */
+  .link-section {
+    margin-top: 67px;
+  }
+  
+  .link-table {
+    width: 296px;
+    height: 100px;
+    border: 5px solid rgba(26, 33, 241, 0.7);
+    border-collapse: collapse;
+  }
+  
+  .link-table td {
+    text-align: center;
+    background-color: rgba(114, 215, 215, 0.34);
+    color: rgba(121, 64, 126, 0.75);
+    border: 5px solid rgba(26, 33, 241, 0.7);
+  }
