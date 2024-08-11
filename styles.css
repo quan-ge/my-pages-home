@@ -1,5 +1,6 @@
 /* 全部 */
 #all{
+  border-radius: 25px;
   width: 400px;
   height: 369px;
   background-color: rgba(161, 232, 255, 0.423);
@@ -15,6 +16,7 @@
 
 /* 头部 */
 #hand{
+  border-radius: 25px 25px 15px 15px;
   width: 400px;
   height: 70px;
   background-color: rgba(110, 126, 251, 0.1);
@@ -35,7 +37,8 @@
 
 
 #img{
-  margin: 7px 0px 0px 10px;
+  border-radius: 25px;
+  margin: 12px 0px 0px 20px;
   position: relative;
   bottom: 4px;
   right: 6px;
