@@ -17,7 +17,7 @@
 /* 头部 */
 #hand{
   border-radius: 25px 25px 15px 15px;
-  width: 400px;
+  width: 350px;
   height: 70px;
   background-color: rgba(110, 126, 251, 0.1);
   flex-direction: row;
