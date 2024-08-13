@@ -1,7 +1,7 @@
 /* 全部 */
 #all{
   box-shadow: inset 8px 8px 8px rgba(0,0,0,0.3)
-    inser -8px -8px -8px rgba(0,0,0,0.7)
+  box-shadow: inset -8px -8px 8px rgba(0,0,0,0.7)
   border-radius: 25px;
   width: 350px;
   height: 360px;
