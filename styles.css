@@ -18,9 +18,10 @@
 #hand{
   box-shadow: 8px 8px 8px rgba(0,0,0,0.3);
   border-radius: 25px 25px 15px 15px;
-  width: 347px;
+  width: 345px;
   height: 70px;
   background-color: rgba(110, 126, 251, 0.1);
+  laft: 5;
 }
 
 
