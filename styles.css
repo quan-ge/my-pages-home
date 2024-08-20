@@ -3,7 +3,7 @@
   box-shadow: 8px 8px 8px rgba(0,0,0,0.3);
   border-radius: 25px;
   width: 350px;
-  height: 460px;
+  height: 480px;
   background-color: rgba(161,232,255,0.434);
   display: flex;
   flex-direction: column;
@@ -14,6 +14,7 @@
 #b{
   width: 330px;
   height: 90px;
+  margin:  15px 0px 0px 20px;
 
 /* 头部 */
 #hand{
