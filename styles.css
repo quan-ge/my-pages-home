@@ -1,4 +1,3 @@
-/* 全部 */
 #all{
   box-shadow: 8px 8px 8px rgba(0,0,0,0.3);
   border-radius: 25px;
@@ -11,62 +10,3 @@
   margin: auto auto
 }
 
-/* 中间 */
-#b{
-  width: 330px;
-  height: 90px;
-  margin:  15px 0px 0px 20px;
-
-/* 头部 */
-#hand{
-  box-shadow: 8px 8px 8px rgba(0,0,0,0.3);
-  border-radius: 25px 25px 15px 15px;
-  width: 340px;
-  height: 70px;
-  background-color: rgba(110, 126, 251, 0.1);
-  left: 5px;
-}
-
-
-#a {
-  color: rgb(0, 170, 255);
-  font-size: 26px;
-  text-decoration: overline;
-  padding: 1px;
-  text-decoration-color: rgba(139, 255, 255, 0.75);
-  position: relative;
-  left: 12px;
-}
-
-
-
-#img{
-  border-radius: 25px;
-  margin: 12px 0px 0px 20px;
-  position: relative;
-  bottom: 4px;
-  right: 6px;
-
-}
-
-
-
-
-/* 链接 */
-table,
-td {
-  border: 5px solid rgba(26, 33, 241, 0.7);
-  border-collapse: collapse;
-  margin: 67px 0px 0px 6px;
-}
-
-table {
-  width: 296px;
-  height: 100px;
-}
-
-td {
-  text-align: center;
-  background-color: rgba(114, 215, 215, 0.34);
-  color: rgba(121, 64, 126, 0.75);
-}
